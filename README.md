@@ -1,3 +1,9 @@
+## 💻 Project
+
+<h1 align="center">
+    <img alt="Comments" title="Comments" src=".github/video.gif" width="px" />
+</h1>
+
 ## 🚀 About application
 
 - This is a simple application made in GraphQL and ReactJS. The user writes a comment, and it displays in the listing
