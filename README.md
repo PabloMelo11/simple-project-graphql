@@ -35,3 +35,5 @@ The project was developed using the following technologies:
     $ yarn dev
     $ yarn start
 ```
+
+Created with ❤️ by Pablo Melo
