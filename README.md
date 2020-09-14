@@ -22,7 +22,7 @@ The project was developed using the following technologies:
 ```bash
 
     # Clone the repository
-    $ git clone https://github.com/PabloMelo11/ecommerce-bootcamp.git
+    $ git clone https://github.com/PabloMelo11/simple-project-graphql.git
 
     # Enter directory
     $ cd server
